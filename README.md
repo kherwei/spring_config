@@ -1,4 +1,4 @@
 # spring_config
 
 
-``curl localhost:8080/actuator/busrefresh -d {} -H "Content-Type: application/json"``
+``curl localhost:8088/actuator/busrefresh -d {} -H "Content-Type: application/json"``
